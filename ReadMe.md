@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💬 Sobre Mim:
 Olá ! Meu nome é Yago, tenho 20 anos e atualmente estou<br>cursando Análise e Desenvolvimento de Sistemas na Unisuam.<br><br>✏️ Aprendendo JavaScript e Python<br>💭 Estudando Front-End
 
 
